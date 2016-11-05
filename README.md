@@ -37,7 +37,7 @@ COMPATIBILITY:
 
 COMPILING THE SOURCE CODE AND LAUNCHING GAME:
 
-1) The source code file Puyo_Puyo.java placed in the same directory in which this file exists.
+1) The source code file Sphere_Sphere.java placed in the same directory in which this file exists.
 
 2) The code is developed in Java and compiled and interpreted using jdk1.5 edition of java.
 
@@ -48,11 +48,11 @@ COMPILING THE SOURCE CODE AND LAUNCHING GAME:
 
 5) set the path to the bin directory of jdk ex: path=c:\jdk1.5\bin here jdk is instlled to the c: drive.
 
-6) Then enter the command "javac Puyo_Puyo.java"  (ie. javac SOURCE_CODE_FILE_NAME)
+6) Then enter the command "javac Sphere_Sphere.java"  (ie. javac SOURCE_CODE_FILE_NAME)
    This command compiles the total code. if compilation successfull then it gives no information and
    generates corresponding class files.
 
-7) To run the game enter the command "java Puyo_Puyo" (ie. javac CLASS_NAME)
+7) To run the game enter the command "java Sphere_Sphere" (ie. javac CLASS_NAME)
    A window opens to launch the game.
 
 There is also other method to compile and run the souce code.
@@ -78,7 +78,7 @@ PLAYER CONTROLS:
 
 2) To start the game one must press <Enter> key.
 
-3) Once the game is started use the <left>,<right> and <down> arrow keys to move the piece of puyos in the relative direction. 
+3) Once the game is started use the <left>,<right> and <down> arrow keys to move the piece of sphere in the relative direction. 
 
 4) pressing the <up> arrow key rotates the piece in clock wise direction by 90 degrees. 
 
@@ -92,7 +92,7 @@ GAME IMPROVEMENTS & FURTHER ENHANCEMENT:
 
 // These features are not added but The game will be more interesting to play by adding this features.
 
-1) Complexity in the generating puyos depending on the level can make the game interesting.
+1) Complexity in the generating sphere depending on the level can make the game interesting.
 
 2) Adding menus to the game will make the game looking good and provides easiness for the gamer.
 
